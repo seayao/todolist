@@ -1,6 +1,6 @@
-# vvvv
+# todolist
 
-> A Vue.js project
+> A todolist project to practice vue.js
 
 ## Build Setup
 
